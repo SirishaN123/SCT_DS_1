@@ -1,2 +1,0 @@
-# SkillCraft-Technology
-Data Science
